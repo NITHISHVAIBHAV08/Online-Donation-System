@@ -1,0 +1,6 @@
+com\donation\DonationApplication.class
+com\donation\model\Donation$DonationStatus.class
+com\donation\controller\DonationController.class
+com\donation\model\Donation.class
+com\donation\repository\DonationRepository.class
+com\donation\service\DonationService.class
